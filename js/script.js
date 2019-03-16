@@ -16,4 +16,5 @@ function init() {
     return `rgb(${r}, ${g}, ${b})`;
   }
 }
+
 window.addEventListener('load', init);
